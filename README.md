@@ -144,31 +144,6 @@ Part 3 (Fairness) → Infeasible under $100M + δ=0.10 fairness constraint
 - **Jupyter Notebooks** — Exploratory modeling
 
 
-## Getting Started
-
-```bash
-# Clone the repo
-git clone https://github.com/YOUR_USERNAME/childcare-deserts-nys.git
-cd childcare-deserts-nys
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run Part 1 model
-python src/partie_1.py
-
-# Or open the notebooks
-jupyter notebook notebooks/
-```
-
-### requirements.txt
-```
-gurobipy>=11.0
-pandas>=2.0
-numpy>=1.26
-jupyter
-```
-
 ---
 
 ## Report
