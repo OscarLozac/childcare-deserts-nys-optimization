@@ -1,7 +1,7 @@
 # Eliminating Child Care Deserts in New York State — Optimization Models
 
 > **IEOR E4004 — Optimization Models and Methods | Columbia Engineering | Fall 2025**  
-> Team: Oscar Lozac'hmeur, Chad Readey, Hanrui Zhang, Wei Hu, Chen Dong
+> Team: Oscar Lozac'hmeur, Chad Readey, Hanrui Zhang
 
 ---
 
