@@ -185,8 +185,3 @@ The full written report (methodology, formulations, results, limitations) is ava
 - Excludes ongoing operational expenses
 - Next steps: sensitivity analysis on δ and budget; multi-year optimization with operating costs
 
----
-
-## License
-
-Academic project — Columbia University, Fall 2025. Not for commercial use.
